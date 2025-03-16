@@ -29,7 +29,6 @@ This repository contains implementations, experiments, and resources related to 
 ## Installation
 ### Clone the Repository
 ```bash
-git clone https://github.com/your-username/NLP-Repository.git
 cd NLP-Repository
 ```
 
